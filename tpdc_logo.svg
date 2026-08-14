@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80" width="240" height="80">
+  <rect width="240" height="80" rx="12" fill="#0f2c59"/>
+  <circle cx="45" cy="40" r="26" fill="#1e3a8a" stroke="#d4af37" stroke-width="2"/>
+  <!-- Open Book & Star -->
+  <path d="M30 46 C35 41, 42 41, 45 44 C48 41, 55 41, 60 46 L60 30 C55 26, 48 26, 45 29 C42 26, 35 26, 30 30 Z" fill="none" stroke="#d4af37" stroke-width="2" stroke-linejoin="round"/>
+  <text x="85" y="38" font-family="'Segoe UI', Arial, sans-serif" font-weight="800" font-size="22" fill="#ffffff" letter-spacing="1">TPDC</text>
+  <text x="85" y="54" font-family="'Segoe UI', Arial, sans-serif" font-weight="600" font-size="10" fill="#d4af37" letter-spacing="0.2">მასწავლებელთა განვითარების ცენტრი</text>
+</svg>
